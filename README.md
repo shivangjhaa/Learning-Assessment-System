@@ -171,9 +171,6 @@ All endpoints are prefixed with `/api` and (except `/auth`) require a `Bearer <t
 - [ ] Dockerize the app for one-command local setup
 - [ ] Add pagination/filtering to document and audit log lists
 
-## License
-
-Add a license of your choice (e.g. MIT) here before making the repository public.
 
 ## Contributing
 
