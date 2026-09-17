@@ -1,4 +1,4 @@
-# ADM Knowledge Repository
+Knowledge Repository and learning platform
 
 A full-stack **document management and training compliance platform** built with the MERN stack (MongoDB, Express, React, Node.js). Organizations use it to publish SOPs, policies, and work instructions to employees, track that employees have actually read them, test their understanding with quizzes, and issue certificates — all with a full audit trail.
 
